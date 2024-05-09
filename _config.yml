@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: cpp coder
+avatar: '/images/avatar.jpg'
+subtitle: 'chen.jian的个人技术博客'
+description: '作为程序员，一直写代码是一件幸福的事'
+keywords: c/c++, boost, linux
+author: chen.jian
+language: zh-CN
 timezone: ''
 
 # URL
@@ -96,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: stellar
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

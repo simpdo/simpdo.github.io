@@ -1,0 +1,14 @@
+open_graph:
+  enable: true
+
+article:
+  type: tech # tech/story
+  auto_excerpt: 200
+  license: ''
+
+logo:
+  avatar: '[{config.avatar}]'
+
+
+footer:
+  content: ''
