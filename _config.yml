@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 东二
+title: 东二技术博客
 avatar: '/images/avatar.jpg'
 subtitle: '这个家伙很懒什么也没留下'
 description: '作为程序员，一直写代码是一件幸福的事'
 keywords: c/c++, boost, linux
-author: chen.jian
+author: 东二
 language: zh-CN
 timezone: ''
 
